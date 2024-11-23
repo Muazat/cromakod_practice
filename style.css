@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(166, 151, 151);
+}
+h1#welcome{
+    background-color: rgb(178, 99, 99);
+    text-align: center;
+}
+table{
+    margin: 0 auto;
+}
+table, tr, td {
+    border-collapse: collapse;
+   
+}
+table tr td {
+    border-collapse: collapse;
+    height: 200px;
+    width: 200px;
+    border: 5px solid black;
+}
